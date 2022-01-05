@@ -36,8 +36,10 @@ Pacman game where practising classes and calling other objects methods.
 
 ## Sääpalvelu:
 This was an exam about lists. Program is a weather service where user writes temperatures of different days and can check for example the highest or average temperatures.
+
 **Grade: 5/5**
 
 ## Tentti Happy Or Not:
 This was an exam about methods, inheritance and encapsulation. The task was to create functionality to a feedback machine with demanded functions.
+
 **Grade: 5/5**
